@@ -184,7 +184,7 @@ public class CashRegister
 	{
 	    if (change [index] != 0)
 	    {
-	    System.out.println (" - " + DENOMINATION_NAMES [index] + ":" + change [index]);
+	    System.out.println (" - " + DENOMINATION_NAMES [index] + ": " + change [index]);
 	    }
 	}
     }
